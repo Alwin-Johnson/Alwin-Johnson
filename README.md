@@ -75,6 +75,7 @@
 
 ## 📊 GitHub Stats
 
+  </tr>
 <table align="center" style="border: none;">
   <tr>
     <td style="border: none;">
@@ -83,7 +84,6 @@
     <td style="border: none;">
       <img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin-Johnson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide_title=true">
     </td>
-  </tr>
 </table>
 
 <br>
@@ -96,4 +96,19 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alwin-Johnson&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_title=true" alt="Contribution Graph">
+</div>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=999999&color=FF4757&center=true&vCenter=true&repeat=false&width=435&lines=📬+Contact+Me" alt="Contact Me" />
+
+</div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwinjohnson9915@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwin-johnson-b0b139333/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alwin_johnson)
+
 </div>
