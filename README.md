@@ -71,22 +71,15 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
 
-  </tr>
-<table align="center" style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=Alwin-Johnson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_title=true">
-    </td>
-    <td style="border: none;">
-      <img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin-Johnson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide_title=true">
-    </td>
-</table>
 
-<br>
+
+
+# 📊 GitHub Stats
+
+ 
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -97,7 +90,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alwin-Johnson&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_title=true" alt="Contribution Graph">
 </div>
----
 
 <div align="center">
 
